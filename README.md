@@ -2,6 +2,10 @@
 
 **Explained with usage.**
 
+<p align="center">
+  <img src="assets/10-agent-evals.svg" alt="10 Agent Evals visual summary" width="700"/>
+</p>
+
 > Offline evals tell you it works.  
 > Online evals tell you it still works.  
 > Both sides matter, but not all ten do.  
